@@ -1,0 +1,4 @@
+B;CS 106 Introduction to C
+A;CS 466 Introduction to Java
+A;CS 206 Adnanced database
+C;CS 224 Cpmputer Security
